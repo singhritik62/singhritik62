@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ritik+Singh;Blockchain+%C2%B7+Cybersecurity+%C2%B7+AI+%C2%B7+Web3;Building+KaamKiBaat+%26+Healthcare+on+Blockchain;Founder+%40+Raastha+Foundation;Security+Researcher+%7C+Red+Team+%7C+SOC+%7C+DFIR" alt="Typing SVG" />
 </a>
 
-<h1>Hey 👋 I'm <span>Ritik Singh</span></h1>
-<h4>🚀 Blockchain · Cybersecurity · AI · Full-Stack · Web3</h4>
+<h1>Hey  I'm <span>Ritik Singh</span></h1>
+<h4> Cybersecurity · Web3</h4>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```yaml
 name       : Ritik Singh
@@ -37,7 +37,7 @@ pursuing   : CompTIA Security+
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -74,13 +74,13 @@ pursuing   : CompTIA Security+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
-> 🔐 **Primary Focus:** Smart Contracts · Hyperledger Fabric · IPFS · Blockchain Security · Web3 Auditing
+>  **Primary Focus:** Smart Contracts · Hyperledger Fabric · IPFS · Blockchain Security · Web3 Auditing
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -110,9 +110,9 @@ pursuing   : CompTIA Security+
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
-| 🏅 Award | 🏛️ Organization | 📅 Date |
+|  Award |  Organization |  Date |
 |----------|----------------|---------|
 | **Top 10 of 80+** — Internal CTF Tournament | MIT ADT University | Aug 2025 |
 | **Best Technical Lead** — Inter-College Cybersecurity Workshop | CBC Club | Jan 2024 |
@@ -123,7 +123,7 @@ pursuing   : CompTIA Security+
 
 ---
 
-## 💼 Experience Snapshot
+##  Experience Snapshot
 
 ```
 🔴  Red Team Analyst          nCreeps, Pune              Jan 2026 – Present
@@ -134,7 +134,7 @@ pursuing   : CompTIA Security+
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 - 🟢 **Google Cybersecurity Certificate** — Foundations, MySQL, Python (Information Security Associate)
 - 🟢 **TryHackMe** — Security Blue Team Level 1
@@ -153,9 +153,9 @@ pursuing   : CompTIA Security+
 
 <div align="center">
 
-**🧠 Portfolio & Projects → [github.com/singhritik62](https://github.com/singhritik62)**
+** Portfolio & Projects → [github.com/singhritik62](https://github.com/singhritik62)**
 &nbsp;·&nbsp;
-**📫 Contact → [singhritik62@gmail.com](mailto:singhritik62@gmail.com)**
+** Contact → [singhritik62@gmail.com](mailto:singhritik62@gmail.com)**
 
 <br/>
 
