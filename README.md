@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-<a href="https://github.com/singhritik62">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ritik+Singh;Blockchain+%C2%B7+Cybersecurity+%C2%B7+AI+%C2%B7+Web3;Building+KaamKiBaat+%26+Healthcare+on+Blockchain;Founder+%40+Raastha+Foundation;Security+Researcher+%7C+Red+Team+%7C+SOC+%7C+DFIR" alt="Typing SVG" />
-</a>
+
 
 <h1>Hey  I'm <span>Ritik Singh</span></h1>
-<h4> Cybersecurity · Web3</h4>
+<h4> SOC Analyst ·Greymatter· Web3</h4>
 
 <br/>
 
@@ -153,9 +151,9 @@ pursuing   : CompTIA Security+
 
 <div align="center">
 
-** Portfolio & Projects → [github.com/singhritik62](https://github.com/singhritik62)**
+Portfolio & Projects → [github.com/singhritik62](https://github.com/singhritik62)**
 &nbsp;·&nbsp;
-** Contact → [singhritik62@gmail.com](mailto:singhritik62@gmail.com)**
+Contact → [singhritik62@gmail.com](mailto:singhritik62@gmail.com)**
 
 <br/>
 
